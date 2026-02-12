@@ -3,7 +3,7 @@
 <h3 align="center">🎓 Engineering Student |  🌐 Web Developer |💡 AI & Machine Learning Enthusiast | 🧠 DSA Learning Explorer | 🚀 Building Real-World Tech Solutions with Code</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=somenpradhan&label=Profile%20views&color=0e75b6&style=flat" alt="rasmi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rasmiranjan03&label=Profile%20views&color=0e75b6&style=flat" alt="rasmi" /> </p>
 
 
 
