@@ -1,24 +1,95 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/81bb4b165684019.640b6038d133e.gif)](https://www.linkedin.com/in/somen-pradhan-154741298/)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/81bb4b165684019.640b6038d133e.gif)](https://portfolio-5sgn.onrender.com/)
+
 <h1 align="center">Hi 👋, I'm Rasmi Ranjan Sahoo</h1>
-<h3 align="center">🎓 Engineering Student |  🌐 Web Developer |💡 AI & Machine Learning Enthusiast | 🧠 DSA Learning Explorer | 🚀 Building Real-World Tech Solutions with Code</h3>
+
+<h3 align="center">
+🚀 Engineering Student | 🌐 Full-Stack Web Developer | 🤖 AI & Machine Learning Enthusiast | 🧠 DSA Learner
+</h3>
+
+---
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rasmiranjan03&label=Profile%20views&color=0e75b6&style=flat" alt="rasmi" /> </p>
+### 👨‍💻 About Me
 
+- 🎓 Engineering student passionate about **technology and innovation**
+- 💻 Building **real-world web applications**
+- 🌱 Currently learning **Node.js, Express & advanced backend development**
+- 🤖 Exploring **Artificial Intelligence & Machine Learning**
+- 🧠 Practicing **Data Structures & Algorithms**
+- 🏆 Participating in **hackathons & coding competitions**
+- ⚡ Love building **creative UI and impactful tech solutions**
 
+---
 
-<!--
-**RasmiRanjan03/RasmiRanjan03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌐 Portfolio
 
-Here are some ideas to get you started:
+🚀 Check out my portfolio:  
+👉 **https://portfolio-5sgn.onrender.com/**
 
-- 🔭 I’m currently working on Ai 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
+### 🛠️ Tech Stack
+
+**Languages**
+
+`Python` `JavaScript` `Java` `HTML` `CSS`
+
+**Frameworks & Libraries**
+
+`Flask` `Node.js` `Express` `NumPy` `Pandas` `Matplotlib`
+
+**Tools & Platforms**
+
+`Git` `GitHub` `VS Code` `Render` `Spline`
+
+---
+
+### 📌 Featured Projects
+
+🔹 **AI Thumbnail Generator**  
+Create high-CTR YouTube thumbnails using AI.
+
+🔹 **Smart Library System**  
+A web platform for managing digital libraries.
+
+🔹 **News App (Python + NewsAPI)**  
+A Python application that fetches live news with **text-to-speech support**.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=RasmiRanjan03&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RasmiRanjan03&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RasmiRanjan03&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://portfolio-5sgn.onrender.com/" target="blank">
+Portfolio
+</a>
+
+<a href="https://github.com/RasmiRanjan03" target="blank">
+GitHub
+</a>
+
+<a href="https://linkedin.com/" target="blank">
+LinkedIn
+</a>
+
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+💡 I enjoy turning **ideas into real products using code and creativity.**
