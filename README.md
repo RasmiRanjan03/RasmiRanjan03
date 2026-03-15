@@ -33,7 +33,7 @@
 
 **Languages**
 
-`Python` `JavaScript` `Java` `HTML` `CSS` 'TypeScript'
+`Python` `JavaScript` `Java` `HTML` `CSS`
 
 **Frameworks & Libraries**
 
